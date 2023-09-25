@@ -15,5 +15,3 @@ def frequencies(items):
 
     return frequencies
 
-print(frequencies(['0', 4,4,'4','d','d','e',0,'a','d','4']))
-print(frequencies([100, 'Hello', '100', '100', 100]))
